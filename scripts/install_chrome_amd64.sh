@@ -2,7 +2,7 @@
 
 # Setup the Google signer and repo
 curl -O https://packages.cloud.google.com/apt/doc/apt-key.gpg && sudo apt-key add apt-key.gpg
-sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list' 
+sudo sh -c 'echo "deb [arch=amd64]  https://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list' 
 
 # Install
 sudo apt-get update
