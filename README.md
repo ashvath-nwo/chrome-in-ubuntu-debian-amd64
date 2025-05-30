@@ -10,7 +10,7 @@ To install Google Chrome you'll need to open the terminal.
 <a name=chrome-installation-command></a>
 - `Chrome installer for Ubuntu=Debian` :
 ```bash
-curl -o install_chrome_amd64.sh https://raw.githubusercontent.com/ashvath-nwo/chrome-in-ubuntu-debian-amd64/refs/heads/main/scripts/install_chrome_amd64.sh && chmod +rwx install_chrome_amd64.sh && ./install_chrome_amd64.sh && rm -f install_chrome_amd64.sh
+sudo curl -o install_chrome_amd64.sh https://raw.githubusercontent.com/ashvath-nwo/chrome-in-ubuntu-debian-amd64/refs/heads/main/scripts/install_chrome_amd64.sh && sudo chmod +rwx install_chrome_amd64.sh && sudo ./install_chrome_amd64.sh && sudo rm -f install_chrome_amd64.sh
 ```
 #
 This script will install chrome in your Ubuntu/Debian PC
