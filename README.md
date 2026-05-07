@@ -1,7 +1,9 @@
 # chrome-in-ubuntu/debian
 ![Alt text](https://raw.githubusercontent.com/ashvath-nwo/chrome-in-ubuntu-debian-amd64/refs/heads/main/scripts/Google%20Chrome.jpeg)
 #
-I know that most of you guys want to installed in your Ubuntu/Debian linux distro computers.
+I know that most of you guys have installed Ubuntu/Debian linux distros because of microslop
+#
+You guys probably use Firefox or Chromium but if you are a beginner at linux and want Chrome then this is for you
 #
 This method only requires Ubuntu and Debian with architecture x64 or AMD64
 #
